@@ -30,7 +30,7 @@ O projeto consiste em três modelos principais:
 
 1. Clone o repositório:
    ```
-   git clone [git@github.com:JOAO2666/biblioteca-django-v2..git
+   git clone [git@github.com:JOAO2666/biblioteca-django-v2.git
    ```
 
 2. Instale as dependências:
